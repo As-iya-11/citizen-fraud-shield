@@ -1,0 +1,50 @@
+COMMON DIGITAL FRAUD PATTERNS — CITIZEN REFERENCE
+
+1. Fake KYC / Bank Update Scam
+   - Message or call claims your bank account, UPI, or KYC will be blocked unless you
+     "update" details immediately via a link or app.
+   - Link leads to a fake bank page or asks victim to install a remote-access app
+     (AnyDesk, TeamViewer, QuickSupport) allowing scammers to see the victim's screen and
+     OTPs.
+   - Red flag: banks never ask you to install remote access apps or share OTP/PIN over
+     call or message.
+
+2. Fake Job / Work-From-Home Scam
+   - Victim is offered a highly-paid task-based job (liking videos, rating apps, hotel
+     booking tasks) via WhatsApp or Telegram.
+   - Initial small "tasks" pay out to build trust, then victim is asked to deposit larger
+     sums to "unlock" bigger payouts, which are never returned.
+   - Red flag: any job that requires the employee to pay money upfront is fraudulent.
+
+3. Lottery / Prize / Gift Scam
+   - Victim is told they have won a lottery, lucky draw, or gift from a courier company,
+     and must pay "processing," "customs," or "tax" fees to release it.
+   - Red flag: legitimate lotteries or prizes never require upfront payment to release
+     winnings.
+
+4. Loan App / Instant Loan Harassment
+   - Predatory loan apps offer instant small loans with minimal verification, then charge
+     hidden fees and use harassment (including morphed photos sent to contacts) to force
+     repayment at extortionate rates.
+   - Red flag: apps not listed with RBI, requesting full contact/photo access, are high
+     risk.
+
+5. Investment / Trading Scam
+   - Victim is added to a WhatsApp/Telegram group showing fake high returns on a stock or
+     crypto trading platform, encouraged to invest increasing amounts.
+   - Platform shows fabricated profits, but withdrawal is blocked or additional "tax"
+     payments are demanded before any withdrawal is permitted.
+   - Red flag: guaranteed high returns, group-based social proof, and withdrawal blocks
+     are consistent hallmarks.
+
+6. SIM Swap / Courier Scam
+   - Caller claims victim's SIM will be deactivated, or a parcel with illegal contents is
+     addressed to them, as a lead-in to a digital arrest or KYC scam.
+
+General verification principles:
+- No genuine authority (bank, police, court, government department) asks for OTP, PIN,
+  full card number, or remote screen access over phone or chat.
+- Urgency and secrecy ("don't tell anyone," "act within the hour") are the two most
+  reliable signals of a scam in progress, regardless of the specific story used.
+- When in doubt, disconnect and independently verify using an officially published contact
+  number, never a number or link given during the suspicious contact itself.

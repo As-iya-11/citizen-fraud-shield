@@ -1,0 +1,31 @@
+OFFICIAL REPORTING CHANNELS AND ADVISORIES (INDIA)
+
+National Cyber Crime Reporting Portal:
+- Website: cybercrime.gov.in
+- Helpline: 1930 (toll-free, national cybercrime helpline)
+- Use this to report financial fraud, digital arrest scams, phishing, and other cyber
+  crimes. Immediate reporting (within a few hours) significantly improves the chance of
+  freezing transferred funds before they are withdrawn by the fraudster.
+
+What to do immediately after a suspected fraud transaction:
+1. Call 1930 or report on cybercrime.gov.in as soon as possible — speed matters, since
+   funds can be frozen at the receiving bank if reported quickly.
+2. Note down: the caller's number, any UPI ID / bank account the money was sent to,
+   screenshots of the chat or call, and the exact time of transaction.
+3. Inform your bank's fraud helpline to request a freeze on the transaction if still
+   possible.
+4. File a complaint at the nearest police station if the online portal is not accessible.
+
+Government advisory principles (paraphrased from MHA / RBI / TRAI public advisories):
+- Law enforcement and government departments (CBI, ED, Customs, Police, Courts) do not
+  conduct investigations, verifications, or arrests over phone or video call.
+- Banks and RBI never ask customers to reveal OTP, PIN, CVV, or install remote-access
+  software to "verify" an account.
+- TRAI does not deactivate mobile numbers over a phone call; any SIM deactivation notice
+  received this way is fraudulent.
+- Any request to keep a conversation secret from family or authorities is itself a strong
+  indicator of fraud.
+
+Reporting counterfeit currency:
+- Suspected fake notes should be handed over to the nearest bank branch or police station;
+  do not attempt to circulate or use suspected counterfeit currency.

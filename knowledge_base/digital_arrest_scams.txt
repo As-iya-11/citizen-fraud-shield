@@ -1,0 +1,44 @@
+DIGITAL ARREST SCAM — PATTERN REFERENCE
+
+What it is:
+A "digital arrest" scam is a fraud where callers impersonate law enforcement or government
+officials (CBI, ED, Customs, RBI, Police, TRAI, Cyber Crime Cell) and claim the victim is
+under investigation for a serious crime (money laundering, drug parcel, SIM card misuse,
+tax evasion). Victims are pressured to stay on a video call continuously — sometimes for
+hours or days — and are told they are under "digital arrest" and cannot leave, contact
+family, or hang up until they pay a "clearance" or "verification" amount.
+
+Common red flags:
+1. Caller claims to be from CBI, ED, Customs, TRAI, RBI, or local police and demands you
+   stay on a video call.
+2. Caller shows a fake ID card, fake arrest warrant, or fake government office backdrop.
+3. Victim is told a parcel/courier in their name contains drugs, fake passports, or
+   contraband, and that they must "verify" their identity and finances.
+4. Victim is isolated — told not to disconnect the call, not to tell family, not to leave
+   the room, sometimes for many hours.
+5. Urgency and threats: "your accounts will be frozen," "you will be arrested within the
+   hour," "this is your last chance to cooperate."
+6. Request to transfer money to a "RBI verification account" or "government scrutiny
+   account" for a background check, with a promise the money will be refunded after
+   verification.
+7. Caller ID may be spoofed to look like a genuine government number.
+8. No genuine government agency conducts arrests, investigations, or fund verification over
+   video call or WhatsApp. No agency asks for money to "verify" your innocence.
+
+Escalation timeline typically seen in real cases:
+- Initial contact via phone call or WhatsApp video call, often claiming a courier/SIM
+  card issue.
+- Rapid escalation within minutes to threat of arrest.
+- Sustained video call to prevent victim from seeking outside advice (this is the
+  "digital arrest" itself).
+- Multiple transfers, sometimes across several hours, until victim's funds are drained or
+  family intervenes.
+
+What a citizen should do:
+- Real police, CBI, ED, or courts never conduct investigations, verification, or arrests
+  over phone/video call.
+- Disconnect immediately. Do not transfer any money under threat.
+- Verify independently by calling the department's official published number (not any
+  number given by the caller).
+- Report to the National Cyber Crime Helpline: 1930, or online at cybercrime.gov.in.
+- Inform a trusted family member or the local police station in person.

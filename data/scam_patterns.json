@@ -1,0 +1,162 @@
+[
+  {
+    "id": "DA001",
+    "category": "Digital Arrest - Fake CBI/Police",
+    "scenario_text": "Caller claims to be a CBI officer, says my Aadhaar card was used in a money laundering case, and tells me not to disconnect the call or I will be arrested immediately.",
+    "red_flags": ["Claims to be CBI/police over phone call", "Threatens immediate arrest", "Demands victim stay on call continuously", "Uses Aadhaar number as leverage"],
+    "risk_level": "High",
+    "guidance": "Real police/CBI never arrest, investigate, or issue notices over a phone or video call. They do not ask you to stay on a call. Hang up immediately and verify by calling the local police station directly."
+  },
+  {
+    "id": "DA002",
+    "category": "Digital Arrest - Fake Customs Officer",
+    "scenario_text": "A person on video call in a police-style uniform says a parcel with my ID was intercepted at customs containing drugs, and I need to pay a fine to avoid arrest.",
+    "red_flags": ["Uniformed appearance on video call", "Fake courier/customs seizure claim", "Demands urgent payment to 'avoid arrest'", "Uses fear of drug-related charges"],
+    "risk_level": "High",
+    "guidance": "Customs and courier companies never contact individuals demanding payment to avoid arrest. This is a scripted digital arrest scam. Do not pay. End the call and report to cybercrime.gov.in."
+  },
+  {
+    "id": "DA003",
+    "category": "Digital Arrest - Fake ED Officer",
+    "scenario_text": "Someone claiming to be from the Enforcement Directorate says my bank account is linked to a money laundering investigation and I must transfer funds to a 'safe government account' for verification.",
+    "red_flags": ["Claims funds must be moved to a 'safe account'", "Impersonates ED", "Creates urgency around money laundering", "Requests bank transfer for 'verification'"],
+    "risk_level": "High",
+    "guidance": "No government agency will ever ask you to transfer money to a 'safe account' for verification. This is the single most common digital arrest scam tactic. Never transfer funds. Report immediately."
+  },
+  {
+    "id": "DA004",
+    "category": "Digital Arrest - Prolonged Video Surveillance",
+    "scenario_text": "The caller insists I keep my camera on for hours, watches me continuously, and says I cannot leave the room or contact anyone until the 'investigation' is complete.",
+    "red_flags": ["Demands continuous video surveillance", "Isolates victim from contacting others", "Extended multi-hour engagement", "Psychological pressure tactics"],
+    "risk_level": "High",
+    "guidance": "This is a hostage-style psychological manipulation tactic used in digital arrest scams. No legal process requires continuous video monitoring by phone. Disconnect and contact a trusted family member immediately."
+  },
+  {
+    "id": "DA005",
+    "category": "Digital Arrest - Fake Legal Notice",
+    "scenario_text": "I received a message with a scanned document that looks like a court summons, saying I have to respond within 2 hours or a warrant will be issued.",
+    "red_flags": ["Fake scanned legal document sent via message", "Extremely short response deadline", "Warrant threat", "No official government letterhead verification possible"],
+    "risk_level": "High",
+    "guidance": "Real legal summons are delivered through official channels with proper time for response, never demanding action within hours over chat. Verify independently through the court's official website."
+  },
+  {
+    "id": "FR001",
+    "category": "Fake Courier/Parcel Scam",
+    "scenario_text": "I got a call saying my FedEx parcel was seized because it contains illegal items, and I need to pay a fee or share my bank details to release it.",
+    "red_flags": ["Unclaimed/seized parcel claim", "Requests bank details over phone", "Payment demanded to 'release' parcel", "Uses courier company name as cover"],
+    "risk_level": "High",
+    "guidance": "Courier companies do not call demanding fees for seized illegal parcels. Never share bank details over the phone. Verify directly on the courier company's official app or website."
+  },
+  {
+    "id": "FR002",
+    "category": "KYC Update Scam",
+    "scenario_text": "I received an SMS saying my bank KYC will expire today and I must click a link and enter my account details immediately to avoid account suspension.",
+    "red_flags": ["Urgent KYC expiry threat", "Suspicious shortened link", "Requests full account details via link", "Artificial time pressure"],
+    "risk_level": "High",
+    "guidance": "Banks never ask you to update KYC via SMS links. Do not click the link. Visit your bank branch or official app directly to verify KYC status."
+  },
+  {
+    "id": "FR003",
+    "category": "Fake Bank Official Call",
+    "scenario_text": "A caller claiming to be from my bank's fraud department says suspicious activity was found on my card and asks me to share the OTP to 'block' the card.",
+    "red_flags": ["Requests OTP over phone", "Claims to be bank fraud department", "Urgency around blocking card", "OTP request is the key red flag"],
+    "risk_level": "High",
+    "guidance": "Banks never ask for your OTP over a call, under any circumstance, including to 'block' a card. Never share OTP with anyone. Hang up and call your bank's official number directly."
+  },
+  {
+    "id": "FR004",
+    "category": "Loan App Harassment Scam",
+    "scenario_text": "I took a small loan from an app, and now they are calling my contacts and threatening to morph my photos unless I pay much more than I borrowed.",
+    "red_flags": ["Unregulated loan app", "Threatens to contact personal contacts", "Threatens photo morphing/defamation", "Demands payment far exceeding loan amount"],
+    "risk_level": "High",
+    "guidance": "This is loan app extortion, a recognized cybercrime pattern. Do not engage further payments. Screenshot all threats and report to cybercrime.gov.in and local police immediately."
+  },
+  {
+    "id": "FR005",
+    "category": "Investment/Trading Scam",
+    "scenario_text": "Someone added me to a WhatsApp group promising guaranteed daily returns on stock trading, and asked me to deposit money into a personal account to start.",
+    "red_flags": ["Guaranteed high daily returns", "Deposit to personal/individual account, not a registered broker", "Recruitment via WhatsApp/Telegram group", "Pressure to invest more after initial small 'profit'"],
+    "risk_level": "High",
+    "guidance": "No legitimate investment guarantees fixed daily returns. Never transfer funds to a personal account for trading. Verify any broker's SEBI registration before investing."
+  },
+  {
+    "id": "FR006",
+    "category": "Sextortion Scam",
+    "scenario_text": "A stranger video-called me, the call turned inappropriate, and now they are threatening to share a recording with my contacts unless I pay them.",
+    "red_flags": ["Unsolicited video call from stranger", "Recording used as blackmail leverage", "Threatens to share with contacts", "Payment demand under threat"],
+    "risk_level": "High",
+    "guidance": "Do not pay — payment rarely stops the threats and can encourage further extortion. Block the contact, do not delete evidence, and report immediately to cybercrime.gov.in's dedicated section for such cases."
+  },
+  {
+    "id": "FR007",
+    "category": "Job Offer Scam",
+    "scenario_text": "I got a message offering a work-from-home job with high pay for simple tasks like liking videos, but they ask for a small 'registration fee' upfront.",
+    "red_flags": ["Unrealistically high pay for simple tasks", "Upfront registration/security fee requested", "Unsolicited job offer via message", "No formal company verification available"],
+    "risk_level": "Medium",
+    "guidance": "Legitimate employers never ask candidates to pay money to get a job. Do not pay any fee. Verify the company's official website and registration before proceeding."
+  },
+  {
+    "id": "FR008",
+    "category": "OTP/UPI Fraud",
+    "scenario_text": "Someone called claiming to help me receive a refund, and asked me to open my UPI app and enter a code they read out, or approve a request on my phone.",
+    "red_flags": ["Refund pretext to initiate transaction", "Asks victim to approve a UPI collect request", "Reads out a code to 'complete' refund", "Confuses receiving with sending money"],
+    "risk_level": "High",
+    "guidance": "Refunds never require you to enter a code or approve a request in your UPI app — that action actually sends money out, not receives it. Never approve unfamiliar UPI requests. Decline and report."
+  },
+  {
+    "id": "FR009",
+    "category": "Romance Scam",
+    "scenario_text": "I've been chatting online with someone for weeks who says they love me, and now they're stuck abroad and need money urgently for a medical emergency or customs fee.",
+    "red_flags": ["Relationship built quickly online, never met in person", "Sudden urgent financial emergency abroad", "Requests money via wire transfer/crypto", "Avoids video calls or in-person meetings"],
+    "risk_level": "High",
+    "guidance": "This is a classic romance scam pattern. Do not send money to someone you have never met in person, regardless of the emotional story. Verify identity independently before any financial commitment."
+  },
+  {
+    "id": "FR010",
+    "category": "Fake Lottery/Prize Scam",
+    "scenario_text": "I received a message saying I won a lottery or lucky draw worth lakhs of rupees, and I need to pay a processing fee or tax to claim it.",
+    "red_flags": ["Unsolicited lottery/prize win notification", "Requests upfront processing fee or tax", "Prize amount is unusually large", "No prior entry into any such lottery"],
+    "risk_level": "Medium",
+    "guidance": "You cannot win a lottery you never entered. Legitimate prizes never require upfront payment to release winnings. Do not pay any amount. Ignore and block the sender."
+  },
+  {
+    "id": "FR011",
+    "category": "SIM Swap Fraud",
+    "scenario_text": "My phone suddenly lost network signal for hours, and later I found unauthorized transactions on my bank account that I never approved.",
+    "red_flags": ["Sudden unexplained loss of mobile network", "Unauthorized bank transactions following signal loss", "Possible prior phishing that leaked personal details", "Common precursor to large-scale account takeover"],
+    "risk_level": "High",
+    "guidance": "This pattern strongly suggests SIM swap fraud. Immediately contact your telecom provider and bank to freeze accounts and reissue your SIM securely. File a police complaint right away."
+  },
+  {
+    "id": "FR012",
+    "category": "Fake Government Subsidy/Scheme Scam",
+    "scenario_text": "I got a call saying I'm eligible for a government subsidy or PM scheme benefit, and they need my bank account and Aadhaar details to process it immediately.",
+    "red_flags": ["Unsolicited call about government scheme eligibility", "Requests Aadhaar and bank details over phone", "Urgency to 'process before deadline'", "No official government verification channel used"],
+    "risk_level": "High",
+    "guidance": "Government schemes never require you to share bank/Aadhaar details over an unsolicited call. Verify any scheme only through official government portals like india.gov.in."
+  },
+  {
+    "id": "FR013",
+    "category": "Fake Electricity/Utility Bill Scam",
+    "scenario_text": "I received a message saying my electricity connection will be disconnected tonight due to unpaid bill, and I must call a number or click a link to pay immediately.",
+    "red_flags": ["Disconnection threat with same-day urgency", "Unofficial payment link or number provided", "Bypasses official utility payment channels", "Pressure to act within hours"],
+    "risk_level": "Medium",
+    "guidance": "Utility companies provide advance notice through official bills/apps, not last-minute threatening messages with external links. Verify your bill status only through the official utility website or app."
+  },
+  {
+    "id": "GEN001",
+    "category": "General Awareness - Legitimate Bank Call",
+    "scenario_text": "My bank's relationship manager called from a number saved in my contacts to inform me about a new savings scheme, without asking for OTP or passwords.",
+    "red_flags": [],
+    "risk_level": "Low",
+    "guidance": "This appears to be a routine, low-risk interaction. Legitimate bank staff will never ask for OTP, PIN, or full card details, even in genuine calls. Always verify independently if unsure."
+  },
+  {
+    "id": "GEN002",
+    "category": "General Awareness - Verified Delivery Update",
+    "scenario_text": "I received a tracking update SMS from Amazon with a link that matched the official Amazon tracking domain, confirming my order is out for delivery.",
+    "red_flags": [],
+    "risk_level": "Low",
+    "guidance": "This looks like a standard, low-risk delivery notification. Always double check that links match the company's official domain before clicking, even when it appears legitimate."
+  }
+]

@@ -34,7 +34,13 @@ steps for reporting.
         """
     )
 
-api_key = os.environ.get("GROQ_API_KEY", "")
+api_key = ""
+try:
+    api_key = st.secrets.get("GROQ_API_KEY", "")
+except Exception:
+    api_key = ""
+if not api_key:
+    api_key = os.environ.get("GROQ_API_KEY", "")
 if not api_key:
     api_key = st.sidebar.text_input(
         "Groq API Key", type="password", help="Get a free key at console.groq.com"
